@@ -1,1 +1,2 @@
 here i am testing git fetch for the first time by creating a new file on remote and fetching it
+Alright here i am again testing the git pull and seeing it for what it really is i mean i cant even complete sentences what is the point of me learning to type when i cant even construct a simple sentence without a single mistake
